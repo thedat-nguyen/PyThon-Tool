@@ -5,7 +5,7 @@ This Python tool is designed for educational purposes, allowing users to crawl F
 **Important Note:** This tool should only be used for ethical and legal purposes. Any usage for malicious activities or unauthorized access to accounts may violate the law and result in legal consequences.
 
 ## Features:
-- Crawl Facebook cookies from Cốc Cốc and Chrome browsers.
+- Crawl Facebook cookies from Coc Coc and Chrome browsers.
 - Extract and manage cookies for various web scraping tasks.
 - Simple and easy-to-use interface for developers.
 
